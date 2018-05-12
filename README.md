@@ -21,13 +21,16 @@ How to use
   ```
   kaggle competitions download -c jigsaw-toxic-comment-classification-challenge -p ./data
   ```
+3. Download GloVe
+  - you can download blow link, and then you have to move glove.6B.50d.txt to data dictory
+  - https://nlp.stanford.edu/projects/glove/
   
-3. Execute jupyter
+4. Execute jupyter
   ```
   jupyter notebook
   ```
 
-4. Run code 
+5. Run code 
   - you can open Toxic_classification.ipynb and Run
   
 Reference

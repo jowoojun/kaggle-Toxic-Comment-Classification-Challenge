@@ -10,7 +10,7 @@ Disclaimer: the dataset for this competition contains text that may be considere
 
 From https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
-how to use
+How to use
 =================================================================
 1. Install python packages.
   ```  

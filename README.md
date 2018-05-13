@@ -32,7 +32,12 @@ How to use
 
 5. Run code 
   - you can open Toxic_classification.ipynb and Run
-  
+
+Accuracy
+=================================================================
+![accuracy.png](./image/accuracy.png)
+
+
 Reference
 =================================================================
 - https://www.ijcai.org/Proceedings/16/Papers/408.pdf
